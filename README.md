@@ -3,7 +3,4 @@ This project is about sorting data on a stack, with a limited set of instruction
 
 Here is the visualisation of a used sorting algorithm
 
-
-
-https://github.com/asudie/push_swap/assets/80539245/76939692-5750-4e03-bf21-e4a2df0a779d
-
+![push_swap](https://github.com/asudie/push_swap/assets/80539245/58b992ba-3831-43af-bdd9-8ea2f317ee81)
